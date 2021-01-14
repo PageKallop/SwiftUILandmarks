@@ -12,6 +12,7 @@
 		C06C41BA25B0ABAE0064F32C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C06C41B925B0ABAE0064F32C /* Assets.xcassets */; };
 		C06C41BD25B0ABAE0064F32C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C06C41BC25B0ABAE0064F32C /* Preview Assets.xcassets */; };
 		C06C41C625B0B3BC0064F32C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06C41C525B0B3BC0064F32C /* CircleImage.swift */; };
+		C06C41CF25B0B8A00064F32C /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06C41CE25B0B8A00064F32C /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C06C41BC25B0ABAE0064F32C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C06C41BE25B0ABAE0064F32C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C06C41C525B0B3BC0064F32C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		C06C41CE25B0B8A00064F32C /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				C06C41B525B0ABAC0064F32C /* SwiftUILandmarksApp.swift */,
 				C06C41C525B0B3BC0064F32C /* CircleImage.swift */,
+				C06C41CE25B0B8A00064F32C /* MapView.swift */,
 				C06C41B725B0ABAC0064F32C /* ContentView.swift */,
 				C06C41B925B0ABAE0064F32C /* Assets.xcassets */,
 				C06C41BE25B0ABAE0064F32C /* Info.plist */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C06C41B825B0ABAC0064F32C /* ContentView.swift in Sources */,
+				C06C41CF25B0B8A00064F32C /* MapView.swift in Sources */,
 				C06C41B625B0ABAC0064F32C /* SwiftUILandmarksApp.swift in Sources */,
 				C06C41C625B0B3BC0064F32C /* CircleImage.swift in Sources */,
 			);
