@@ -27,9 +27,13 @@ struct ContentView: View {
                     .foregroundColor(Color.gray)
                     Spacer()
                 Text("California")
-                    Spacer()
                     .font(.subheadline)
+                    .foregroundColor(Color.gray)
                 }
+                Divider()
+                Text("About Turtle Rock")
+                    .font(.title2)
+                Text("It's a rock that looks like a turtle")
                     
             }.padding()
             Spacer()
